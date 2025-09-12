@@ -29,11 +29,12 @@ html{
 }
 
 .content-our-team{
-background-color: rgb(188, 247, 188);
+    background-color: rgb(188, 247, 188);
+    justify-content: space-evenly;  
 }
 
 .content-project{
-    background-color: rgb(141, 212, 141);
+ background-color: rgb(141, 212, 141);
 }
 
 .content-FAQ{
