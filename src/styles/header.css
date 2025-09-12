@@ -7,7 +7,7 @@
     /* altura header */
 
     height: 8vh;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(222, 253, 219);
     box-shadow: 0 2px 5px rgb(146, 187, 142);
 
     /* flex para alinhar os itens na horizontal */
@@ -50,7 +50,7 @@ height: 50px;
     cursor: pointer;
     border-radius: 5px;
     transition: background-color 0.3s ease, color 0.3s ease;
-    box-shadow: 0 2px 4px rgb(202, 202, 202);
+    box-shadow: 0 2px 4px rgb(116, 168, 114);
 
     /* evita seleção de texto no clique */
 
@@ -63,7 +63,7 @@ height: 50px;
 
     background-color: rgb(122, 223, 91);
     color: rgb(255, 255, 255);
-    box-shadow: 0 4px 8px rgb(151, 151, 151);
+    box-shadow: 0 4px 8px rgb(99, 158, 102);
 
 }
 
@@ -77,7 +77,7 @@ height: 50px;
 }
 
 /* Ícone perfil: remove margem e define tamanho */
-.header-icon figure {
+.header-icon {
 
     margin: 0;
     width: 40px;
