@@ -34,3 +34,5 @@
   margin: 3px 0;
   font-size: 14px;
   color: #555; } -->
+
+  <!-- > dentro, + concatenar, {}container, . classe, # id, * multiplicar -->
