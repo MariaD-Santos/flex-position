@@ -44,3 +44,25 @@ html{
 .content-contact{
     background-color: rgb(152, 211, 152);
 }
+
+.whatsapp-button{
+    position: fixed;
+    bottom: 100px;
+    right: 96px;
+    filter: drop-shadow(0 0 4px green);
+    z-index: 1000;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+}
+
+.whatsapp-button img{
+
+    width: 40px;
+
+}
+
+.whatsapp-button:hover{
+
+    transform: scale(1.1);
+
+}
