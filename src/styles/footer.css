@@ -88,7 +88,7 @@
 .effect:hover{
 
     transform: scale(1.2);
-    filter: drop-shadow(0 0 3px rgb(42, 246, 1));
+    filter: drop-shadow(0 0 13px rgb(36, 117, 16));
     cursor: crosshair;
     
 }
